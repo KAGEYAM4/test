@@ -1,0 +1,3 @@
+[submodule "uosc"]
+	path = uosc
+	url = https://github.com/tomasklaen/uosc.git
